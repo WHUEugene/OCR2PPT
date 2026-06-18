@@ -1,0 +1,6 @@
+interface:
+  display_name: "OCR2PPT"
+  short_description: "用OCR和视觉分割还原可编辑PPT"
+  default_prompt: "Use $ocr2ppt to convert slide images into editable PPTX with OCR-guided text rebuild and visual element extraction."
+policy:
+  allow_implicit_invocation: true
